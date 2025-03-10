@@ -21,6 +21,10 @@ export const headerData = {
           text: 'Personal',
           href: getPermalink('/homes/personal'),
         },
+        {
+          text: 'TestHomes',
+          href: getPermalink('/homes/test'),
+        },
       ],
     },
     {
